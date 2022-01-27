@@ -1,1 +1,1 @@
-this is my first git file i am just trying do some changes and commit it.
+this is my first git file i am trying do some changes and then commit it.
